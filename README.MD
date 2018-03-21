@@ -1,4 +1,4 @@
-## HELLO THIS IS MY FIRST GIT ##
+# HELLO THIS IS MY FIRST GIT!
 
 # Special thank
 Thank you to [Marc Andrew](https://medium.com/@marcandrew), it's tutorial git helpful for me.
